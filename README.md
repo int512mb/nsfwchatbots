@@ -1,5 +1,13 @@
 # NSFW Chatbots
 
+<p align="center">
+  <a href="https://nsfwchatbots.net">
+    <button style="padding: 20px 40px; font-size: 20px; background-color: #FF6B6B; color: white; border: none; border-radius: 8px; cursor: pointer; font-weight: bold;">
+      🔞 Browse & Join NSFW Chatbots Now
+    </button>
+  </a>
+</p>
+
 **Open source AI NSFW directory** of adult chatbots — the first and most comprehensive directory of NSFW AI chat characters on the internet.
 
 This platform is an open gateway to the directory for anyone looking for a specific kind of character to flirt with and practice their specific kink or fetish.
