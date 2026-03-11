@@ -27,7 +27,7 @@ To start browsing for the best NSFW chatbots, simply follow these steps:
 ## Links
 
 * [Contact](https://nsfwchatbots.net/contact/)
-* [Terms of Service](https://nsfwchatbots.net/terms-of-service/))
+* [Terms of Service](https://nsfwchatbots.net/terms-of-service/)
 * [Privacy Policy](https://nsfwchatbots.net/privacy-policy/)
 * [Blog](https://nsfwchatbots.net/blog/)
 
