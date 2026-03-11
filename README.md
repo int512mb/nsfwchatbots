@@ -25,5 +25,5 @@ To start browsing for the best NSFW chatbots, simply follow these steps:
 
 ## Acknowledgments
 
-* [CharacterAIAlternative](characteraialternative.blogspot.com) - Featured as a Character.ai alternative
+* [CharacterAIAlternative](https://characteraialternative.blogspot.com) - Featured as a Character.ai alternative
 ---
